@@ -6,6 +6,3 @@ def Hello():
 def Hi():
     print("Hi!")
     return 1
-
-def F():
-    return "F"
